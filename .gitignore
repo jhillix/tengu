@@ -1,0 +1,17 @@
+# Build output
+tengu.eep
+tengu.elf
+tengu.hex
+tengu.lss
+tengu.lst
+tengu.map
+tengu.o
+tengu.sym
+
+# Misc
+.dep
+guide
+bmps/frozen
+bmps/oso
+bmps/sunny.bmp
+bmps/sunny.xcf
